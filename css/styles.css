@@ -1,0 +1,9 @@
+.fancy{
+  font-family:'Franklin Gothic Medium';
+  color: purple;
+}
+
+.notFancy{
+  font-style: italic;
+  text-align: center;
+}
